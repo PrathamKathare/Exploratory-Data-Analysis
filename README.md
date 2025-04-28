@@ -8,10 +8,6 @@
 - [Methodology](#methodology)
 - [Results](#results)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 This project aims to explore and analyze the phenomenon of mobile addiction among engineering students. With the increasing reliance on mobile devices for communication, entertainment, and academic purposes, understanding the extent of mobile addiction and its impact on students' academic performance and mental health is crucial.
