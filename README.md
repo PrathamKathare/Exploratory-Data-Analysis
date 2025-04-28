@@ -28,7 +28,7 @@ The primary objective of this project is to identify the factors contributing to
 - To provide insights and recommendations for mitigating mobile addiction among students.
 
 ## Data Collection
-Data for this project was collected through a structured survey distributed among engineering students. The survey included questions related to:
+Data for this project was collected from a CSV file available on the web. The dataset includes responses from engineering students and contains information on:
 - Daily mobile usage time
 - Types of mobile applications used
 - Academic performance indicators
@@ -47,4 +47,4 @@ The results of the analysis will be documented in detail, including visualizatio
 To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/eda-mobile-addiction.git
+   git clone https://github.com/PrathamKathare/Exploratory-Data-Analysis.git
